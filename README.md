@@ -23,6 +23,16 @@ Another feature I have shown is the topics quiz data in a chart on the statistic
   <img alt="Blog page" src="./project_screen_shot/test_yourself4.png" height="200" width="45%">
 <p>
 
+# quiz-API information
+
+## QUIZ API LINK: 
+Get all quiz topics: https://openapi.programming-hero.com/api/quiz
+
+Get topic details by topic id: https://openapi.programming-hero.com/api/quiz/${id}
+
+Example: https://openapi.programming-hero.com/api/quiz/1
+
+
 ## Installation and Setup Instructions 
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
